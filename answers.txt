@@ -6,6 +6,7 @@ http://mozgan.ru/Math/TxtAdjacentMinorsMatrix
 ################################################################################
 
 2.	Методы решения систем линейных уравнений
+http://ru.solverbook.com/spravochnik/reshenie-uravnenij/reshenie-sistem-linejnyx-uravnenij/
 
 ################################################################################
 
