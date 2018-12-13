@@ -109,6 +109,29 @@ http://ru.solverbook.com/spravochnik/reshenie-uravnenij/reshenie-sistem-linejnyx
 
 ################################################################################
 
+5. Прямая и плоскость в пространстве: уравнения, условия взаимных расположений двух плоскостей, двух прямых, прямой и плоскости.
+
+Уравнения плоскостей:
+
+http://mathhelpplanet.com/static.php?p=uravneniya-ploskosti-cherez-tochku-perpendikulyarno-vektoru
+http://mathhelpplanet.com/static.php?p=uravneniya-ploskosti-komplanarnoi-dvum-nekollinyearnym-vektoram
+http://mathhelpplanet.com/static.php?p=uravneniya-ploskosti-cherez-tri-tochki
+
+Уравнения прямой:
+
+http://mathhelpplanet.com/static.php?p=uravneniya-pryamyh-v-prostranstve
+
+Взаимное расположение плоскостей:
+
+http://mathhelpplanet.com/static.php?p=vzaimnoe-raspolozhenie-ploskostyei
+
+Взаимное расположение прямых, прямой и плоскости:
+
+http://mathhelpplanet.com/static.php?p=vzaimnoe-raspolozhenie-pryamyh-v-prostranstve
+
+
+################################################################################
+
 6. Аксиоматическое определение вероятности. Следствия из аксиом теории вероятностей.
 
 https://en.wikipedia.org/wiki/Probability_axioms                   // Намного более проще по содержанию, чем русский вариант в википедии, а также многие другие ресурсы Интернета.
