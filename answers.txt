@@ -248,6 +248,7 @@ http://www.machinelearning.ru/wiki/index.php?title=%D0%9A%D0%B2%D0%B0%D0%BD%D1%8
 16. Вычеты. Вычисление интегралов с помощью вычетов.
 
 ---> http://mathhelpplanet.com/static.php?p=vychety-i-ikh-primeneniye
+     http://mathhelpplanet.com/static.php?p=vychisleniye-integralov-s-pomoshchyu-vychetov
 
 ################################################################################
 
