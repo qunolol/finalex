@@ -150,8 +150,8 @@ https://nsu.ru/mmf/tvims/chernova/tv/lec/node60.html#SECTION0001330 // ЦПТ
 
 8. Точечное и доверительное оценивание параметрических функций. Методы получения точечных оценок для неизвестных параметров распределений: метод моментов, максимального правдоподобия, метод квантилей.
 
-https://nsu.ru/mmf/tvims/chernova/ms/lec/node12.html#SECTION000230  // метод моментов
-https://nsu.ru/mmf/tvims/chernova/ms/lec/node14.html#SECTION000250  // максимального правдоподобия
+https://www.matburo.ru/ex_ms.php?p1=msmm  // метод моментов, 2-й пример
+https://www.matburo.ru/ex_ms.php?p1=msmmp  // максимального правдоподобия, 2-й пример
 http://www.machinelearning.ru/wiki/index.php?title=%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%B8%D0%BB%D1%8C // метод квантилей
 
 ################################################################################
