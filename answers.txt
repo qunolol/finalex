@@ -273,6 +273,7 @@ https://neerc.ifmo.ru/wiki/index.php?title=%D0%9F%D0%BE%D0%BB%D0%BD%D1%8B%D0%B5_
 Исчисление предикатов ---> http://mathhelpplanet.com/static.php?p=formalizovannoye-ischisleniye-predikatov
 
 Метод резолюций ---> http://ipo.spb.ru/journal/content/931/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%20%D1%80%D0%B5%D0%B7%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%B9.pdf
+(4 страница).
 
 ################################################################################
 
@@ -280,9 +281,15 @@ https://neerc.ifmo.ru/wiki/index.php?title=%D0%9F%D0%BE%D0%BB%D0%BD%D1%8B%D0%B5_
 
 Функции, вычислимые и невычислимые по Тьюрингу ---> http://mathhelpplanet.com/static.php?p=razreshimost-i-perechislimost-mnozhestv
 
-Тезис Черча-Тьюринга ---> http://mathhelpplanet.com/static.php?p=rekursivnyye-funktsii
+Тезис Черча-Тьюринга ---> https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81_%D0%A7%D1%91%D1%80%D1%87%D0%B0_%E2%80%94_%D0%A2%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3%D0%B0
+
+(Суть тезиса: Машина Тьюринга способна вычислить всё, что вычислимо в принципе).
 
 Алгоритмически неразрешимые проблемы, примеры ---> http://mathhelpplanet.com/static.php?p=nerazreshimyye-algoritmicheskiye-problemy
+(проблема о нумерации алгоритмов, задача об останове:
+Даны описание процедуры и её начальные входные данные, требуется определить, завершится ли когда-либо выполнение процедуры с этими данными.
+Альтернативой этому является то, что она работает всё время без остановки.
++ Последний параграф - Другие примеры алгоритмической неразрешимости).
 
 ################################################################################
 
